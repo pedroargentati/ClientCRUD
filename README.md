@@ -15,6 +15,9 @@
 Página principal
 ![image](https://user-images.githubusercontent.com/61717934/193959128-45b67789-bdd0-4881-83c3-17d090689962.png)
 
+Página para realizar a inserção de um novo cliente
+![image](https://user-images.githubusercontent.com/61717934/193959659-d30a2520-887c-412e-a3e1-37132facc9da.png)
+
 Página para visualização dos dados de um determinado cliente
 ![image](https://user-images.githubusercontent.com/61717934/193959485-90c68a65-3672-44c3-912d-4fe6978f0e6e.png)
 
